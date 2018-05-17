@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu May 10 16:51:32 2018
+# Process ID: 17108
+# Current directory: F:/FPGA_VIVADO/PCIe_ep/PCIE_EP.runs/synth_1
+# Command line: vivado.exe -log AC701_Gen1x4If64.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source AC701_Gen1x4If64.tcl
+# Log file: F:/FPGA_VIVADO/PCIe_ep/PCIE_EP.runs/synth_1/AC701_Gen1x4If64.vds
+# Journal file: F:/FPGA_VIVADO/PCIe_ep/PCIE_EP.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source AC701_Gen1x4If64.tcl -notrace
